@@ -105,7 +105,7 @@ else:
                     'city': [city],
                     'runs_left': [runs_left],
                     'balls_left': [balls_left],
-                    'wickets': [wickets],
+                    'wickets_left': [wickets],
                     'total_runs_x': [target],
                     'cur_run_rate': [currentrunrate],
                     'req_run_rate': [requiredrunrate]
